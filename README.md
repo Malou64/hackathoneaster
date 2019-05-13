@@ -1,3 +1,10 @@
+This project is functionnal on dev branch. You can try it but it will not achieved.
+Click on button START
+Then, enter your nickname (this one will not be registered for the moment),
+You then arrive at the game image, where the goal is to find the hidden eggs to gain the most point.
+In the end, there will be several game themes, a record of the stats of each player and maybe more !
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
