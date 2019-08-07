@@ -1,7 +1,12 @@
-This project is functionnal on DEV branch. You can try it but it will not achieved.
-Click on button START.
-Then, enter your nickname (this one will not be registered for the moment),
-you arrive at the game image, where the goal is to find the hidden eggs to gain the most point.
+This project is functionnal on **DEV branch**.   
+You can try it but it will not achieved.  
+Click on Fork button, then git clone and run it locally with npm start.  
+**To play:**  
+- Click on button START.
+- enter your nickname (this one will not be registered for the moment),
+- you arrive at the game image
+- Now find the hidden eggs to gain the most point!   
+
 In the end, there will be several game themes, a record of the stats of each player and maybe more !
 
 
